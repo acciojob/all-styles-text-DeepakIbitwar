@@ -6,8 +6,7 @@ div{
   background-color: purple;
  padding:10px;
 /* 	display: inline-block; */
-	border-left:green;
-	border-left:5px;
+	border-left: 8px solid green;
   
  
   
