@@ -1,23 +1,11 @@
-
-/* Your CSS Code here. */
-div{
-  color: white;
-/* 	width:200px; */
-  background-color: purple;
-	font-size:20px;
- padding:10px;
-/* 	display: inline-block; */
-	border-left: 5px solid green;
-  
- 
-  
-  /* padding: 10px; 10px;10px;10px; */
-
-   
+.main{
+	background-color: purple;
+	border-left:5px solid green;
+	width:200px;
+	padding:10px;
 }
-h1{
-width:200px;
-	font-size:20px;
+#heading{
+    font-size:20px;
 	color:white;
-}
+	text-decoration:underline;
 }
